@@ -1,2 +1,2 @@
 # CI-study
-PHP CI框架学习
+PHP CI study
